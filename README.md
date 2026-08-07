@@ -46,6 +46,7 @@ noted here.
 - [Cutback](https://cutback.video) - Assistant for Premiere Pro that pre-builds selects and rough cuts from raw and multi-cam footage. *(hosted, Premiere plugin)*
 - [Diffusion Studio Agent](https://github.com/diffusionstudio/agent) - Framework where an LLM writes and runs browser-based compositing code to fulfil an editing request. *(MIT · 275★ · last commit 2025-02)*
 - [Mosaic](https://mosaic.so) - Node canvas where agents run edits on autopilot and produce A/B variants from one set of rushes, with a timeline to take over. *(hosted)*
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Coding-agent studio for local composition, editing and generation with an editable plan. *(MIT · 521★)*
 - [Underlord (Descript)](https://www.descript.com/underlord) - Agent inside Descript that acts on editing instructions across a transcript-backed timeline. *(hosted, requires Descript)*
 - [Valmera](https://valmera.io) - Indexes your footage, then edits a versioned EDL from a plain-English brief and exports from the original file. No SRT export or team seats. *(hosted · free tier)*
 - [VideoAgent (HKUDS)](https://github.com/HKUDS/VideoAgent) - Research framework combining video understanding, editing and remaking behind one agent loop. *(MIT · 1.6k★)*
