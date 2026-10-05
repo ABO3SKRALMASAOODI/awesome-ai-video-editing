@@ -43,12 +43,18 @@ An agent takes a natural-language goal and performs the edit on footage you supp
 young category — most entries are under two years old and every one of them has real limits,
 noted here.
 
+- [Cardboard](https://www.cardboard.ai/) - Browser editor where an agent edits on request and can also generate media; a Mac app lets your own Claude or Codex agent drive it. *(hosted, Mac app)*
+- [ChatCut](https://www.chatcut.io/) - Chat-based editor with built-in video models and XML handoff to traditional NLEs. *(hosted, desktop)*
 - [Cutback](https://cutback.video) - Assistant for Premiere Pro that pre-builds selects and rough cuts from raw and multi-cam footage. *(hosted, Premiere plugin)*
 - [Diffusion Studio Agent](https://github.com/diffusionstudio/agent) - Framework where an LLM writes and runs browser-based compositing code to fulfil an editing request. *(MIT · 275★ · last commit 2025-02)*
+- [invideo AI agent](https://invideo.io/) - An AI agent on a full multitrack editor, with generation, team features and remote agents over MCP. *(hosted)*
+- [Loopdesk](https://loopdesk.ai/) - Builds an AI first cut across a library of creator footage. *(hosted)*
 - [Mosaic](https://mosaic.so) - Node canvas where agents run edits on autopilot and produce A/B variants from one set of rushes, with a timeline to take over. *(hosted)*
+- [Riverside Co-Creator](https://riverside.com/co-creator) - Agent inside Riverside for podcasts and interviews recorded on the platform, with an MCP server. *(hosted, requires Riverside)*
 - [Underlord (Descript)](https://www.descript.com/underlord) - Agent inside Descript that acts on editing instructions across a transcript-backed timeline. *(hosted, requires Descript)*
 - [Valmera](https://valmera.io) - Indexes your footage (word-level transcript, shots, frames), then edits a versioned EDL from a plain-English brief, renders and checks a preview, and turns long videos into shorts. Final MP4 renders from the original file. No SRT export or team seats. *(hosted · free account, paid editing)*
 - [VideoAgent (HKUDS)](https://github.com/HKUDS/VideoAgent) - Research framework combining video understanding, editing and remaking behind one agent loop. *(MIT · 1.6k★)*
+- [Vyra](https://usevyra.com/) - Chat editing on a full timeline, driven by its built-in AI or your own assistant over MCP; the project stays open in a browser tab while it edits. *(hosted)*
 - [agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - Turns raw footage plus a creative brief into an ad using an ensemble of Gemini agents over FFmpeg. *(MIT · 467★)*
 
 ## AI-assisted editors
