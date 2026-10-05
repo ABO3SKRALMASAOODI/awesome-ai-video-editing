@@ -47,7 +47,7 @@ noted here.
 - [Diffusion Studio Agent](https://github.com/diffusionstudio/agent) - Framework where an LLM writes and runs browser-based compositing code to fulfil an editing request. *(MIT · 275★ · last commit 2025-02)*
 - [Mosaic](https://mosaic.so) - Node canvas where agents run edits on autopilot and produce A/B variants from one set of rushes, with a timeline to take over. *(hosted)*
 - [Underlord (Descript)](https://www.descript.com/underlord) - Agent inside Descript that acts on editing instructions across a transcript-backed timeline. *(hosted, requires Descript)*
-- [Valmera](https://valmera.io) - Indexes your footage, then edits a versioned EDL from a plain-English brief and exports from the original file. No SRT export or team seats. *(hosted · free tier)*
+- [Valmera](https://valmera.io) - Indexes your footage (word-level transcript, shots, frames), then edits a versioned EDL from a plain-English brief, renders and checks a preview, and turns long videos into shorts. Final MP4 renders from the original file. No SRT export or team seats. *(hosted · free account, paid editing)*
 - [VideoAgent (HKUDS)](https://github.com/HKUDS/VideoAgent) - Research framework combining video understanding, editing and remaking behind one agent loop. *(MIT · 1.6k★)*
 - [agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - Turns raw footage plus a creative brief into an ad using an ensemble of Gemini agents over FFmpeg. *(MIT · 467★)*
 
@@ -129,6 +129,7 @@ than filtered by popularity — small repos are listed with their star counts so
 - [Manim MCP Server](https://github.com/abhiemj/manim-mcp-server) - Renders Manim animations from an assistant, for explainer and motion-graphics inserts. *(MIT · 626★)*
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
+- [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Hosted editor for uploaded footage over OAuth: transcript-aware cuts, captions, reframing, shorts, b-roll, music, rendered previews and final MP4 export. Maintainer's own product, see [CONTRIBUTING](CONTRIBUTING.md). *(MIT docs · hosted service)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
 - [ffmpeg-mcp (AmolDerickSoans)](https://github.com/AmolDerickSoans/ffmpeg-mcp) - Broad wrapper covering decode, encode, transcode, mux, demux, stream and filter. *(MIT · 14★ · last commit 2025-03)*
