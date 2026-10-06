@@ -79,6 +79,7 @@ conventional NLE.
 - [Kapwing](https://www.kapwing.com) - Collaborative browser editor that can also assemble a whole project from a single prompt. *(hosted · free tier)*
 - [Movavi Video Editor](https://www.movavi.com) - Lightweight consumer editor for Windows and Mac with background removal and motion tracking. *(paid · free trial)*
 - [Recut](https://getrecut.com) - Desktop app that strips silence from long recordings and exports to Premiere, Resolve or Final Cut. *(paid)*
+- [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import, arrange, trim and preview your clips; export vertical 9:16 H.264. *(hosted · freemium)*
 - [Riverside](https://riverside.com) - Records local-quality remote podcasts and video, then edits by transcript and cuts clips. *(hosted · free tier)*
 - [Runway](https://runway.com) - Generation plus a working toolbox: inpainting, rotoscoping, motion tracking and green-screen removal. *(hosted · free tier)*
 - [TimeBolt](https://www.timebolt.io) - Jump-cuts silence, filler words and bad takes out of talking videos and podcasts. *(paid)*
