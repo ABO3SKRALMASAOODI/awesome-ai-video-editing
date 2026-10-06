@@ -202,6 +202,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Renderforest](https://www.renderforest.com) - Template-driven video, logo and website generation for marketing output. *(hosted · free tier)*
 - [Synthesia](https://www.synthesia.io) - Enterprise avatar video from a script, with brand templates and localisation. *(hosted)*
 - [Veo](https://deepmind.google/models/veo/) - Google DeepMind's video generation model, with native audio. *(hosted)*
+- [videos.social](https://videos.social/) - Turns blogs, PDFs, and prompts into editable faceless videos. *(hosted · free tier)*
 - [Vidu](https://www.vidu.com) - Text, image and reference-driven generation with consistent characters across shots. *(hosted · free tier)*
 - [Wan](https://wan.video) - Alibaba's hosted front end for the open Wan models. *(hosted · free tier)*
 - [invideo AI](https://invideo.io) - Prompt-to-video agent that scripts, sources stock and narrates a full edit. *(hosted · free tier)*
