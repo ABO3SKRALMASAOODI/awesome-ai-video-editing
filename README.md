@@ -200,6 +200,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Pika](https://pika.art) - Short generative clips with an effects-led, consumer-facing interface. *(hosted · free tier)*
 - [Runway](https://runway.com) - Gen-series video models alongside the editing toolbox listed above. *(hosted · free tier)*
 - [Renderforest](https://www.renderforest.com) - Template-driven video, logo and website generation for marketing output. *(hosted · free tier)*
+- [SEELE TV](https://seele.tv/) - Browser-based AI video creation studio. *(hosted)*
 - [Synthesia](https://www.synthesia.io) - Enterprise avatar video from a script, with brand templates and localisation. *(hosted)*
 - [Veo](https://deepmind.google/models/veo/) - Google DeepMind's video generation model, with native audio. *(hosted)*
 - [Vidu](https://www.vidu.com) - Text, image and reference-driven generation with consistent characters across shots. *(hosted · free tier)*
