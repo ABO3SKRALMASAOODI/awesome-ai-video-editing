@@ -128,6 +128,7 @@ Burn-in, translation, and the editors that handle subtitle files properly.
 video tools. This section is the least covered elsewhere, so it is deliberately complete rather
 than filtered by popularity — small repos are listed with their star counts so you can judge.
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Searches indexed YouTube transcripts for quotes and speaker appearances with timestamps over a hosted MCP server. *(hosted · free tier)*
 - [Claude Code Video Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - Bundle of skills and MCP servers for Remotion, Manim, screen recording, YouTube clipping and FFmpeg. *(no licence file · 64★)*
 - [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) - Drives Resolve Studio through its official scripting API: timeline, media pool, render, grade, Fusion, Fairlight. *(MIT · 2.0k★)*
 - [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Official server for speech synthesis, dubbing and voice cloning — the audio half of a video pipeline. *(MIT · 1.5k★)*
