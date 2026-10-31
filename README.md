@@ -70,6 +70,7 @@ conventional NLE.
 - [Captions](https://captions.ai) - Talking-head editor that handles cuts, captions, eye-contact correction and dubbing from a phone or browser. *(hosted)*
 - [Clipchamp](https://app.clipchamp.com) - Microsoft's browser editor with auto-compose, speaker coach and text-to-speech, free with a Microsoft account. *(hosted · free tier)*
 - [Clueso](https://www.clueso.io) - Turns a rough screen recording into a narrated, on-brand product video and a written step-by-step guide. *(hosted)*
+- [Cutora AI](https://usecutora.com) - AI video editor. Upload your raw talking-head recording. Get back an edited video: cut, cleaned, captioned, zoomed. *(hosted · beta)*
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Editing, colour, VFX and audio post in one app; the Neural Engine does tracking, isolation, reframing and speech cleanup. *(desktop · free tier)*
 - [Descript](https://www.descript.com) - Edits video by editing its transcript; removes filler words, clones voice and fixes gaze. *(hosted · free tier)*
 - [Filmora](https://filmora.wondershare.com) - Consumer desktop and mobile editor with AI masking, smart cutout and motion tracking. *(paid · free trial)*
