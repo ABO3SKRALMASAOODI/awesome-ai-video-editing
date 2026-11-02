@@ -3,8 +3,8 @@
 > A curated list of AI and agentic tools for editing video — plus the MCP servers, open-source
 > projects, models, papers and datasets underneath them.
 
-**Every entry below was opened and checked on 2026-08-05.** Star counts, licences and
-last-commit dates are from that date and will drift; nothing is listed that could not be
+**Every entry below was opened and checked on 2026-08-05, except Repostit Clips, verified on 2026-11-02.** Star counts, licences and
+last-commit dates are from their respective check dates and will drift; nothing is listed that could not be
 confirmed to exist and to be usable. Dead products and abandoned repos are either removed or
 labelled as such.
 
@@ -99,6 +99,7 @@ Long video in, short vertical clips out.
 - [OpusClip](https://www.opus.pro) - The most widely cited clipper; scores moments, reframes to vertical and adds animated captions. *(hosted · free tier)*
 - [Podsqueeze](https://podsqueeze.com) - Podcast-focused: transcripts, summaries, show notes and audiogram clips from one upload. *(hosted · free tier)*
 - [Reap](https://reap.video) - Clips, captions and dubs long video into 100+ languages, with an API for pipeline use. *(hosted)*
+- [Repostit Clips](https://repostit.io/clips/) - Finds moments in long YouTube videos, creates scored vertical clips and schedules them to TikTok, Instagram Reels and YouTube Shorts. *(hosted · free tier)*
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental framework for automating short-form channels end to end. *(MIT · 7.8k★ · last commit 2025-02)*
 - [Spikes Studio](https://www.spikes.studio) - Clip generator built around Twitch and livestream footage as well as YouTube. *(hosted)*
 - [Submagic](https://www.submagic.co) - Caption-led short-form editor with B-roll, zooms and sound effects applied automatically. *(hosted)*
