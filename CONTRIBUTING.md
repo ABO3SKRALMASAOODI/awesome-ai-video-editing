@@ -76,8 +76,9 @@ The three editing sections are easy to confuse, so:
 - **Generative video** — the model synthesises new frames. It does not edit your footage, and it
   goes in this section however the marketing describes it.
 
-A tool that does two of these gets one entry, in the section matching what it is mainly used for,
-with the other capability mentioned in the description.
+Products may combine these workflows, including generation inside an agentic editor. Classify
+a tool by its main use and mention another verified capability in its description; avoid universal
+claims that an editing category can never generate media or that generation never accepts sources.
 
 ## Removals
 

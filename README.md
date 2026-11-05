@@ -3,23 +3,30 @@
 > A curated list of AI and agentic tools for editing video — plus the MCP servers, open-source
 > projects, models, papers and datasets underneath them.
 
-**Every entry below was opened and checked on 2026-08-05.** Star counts, licences and
-last-commit dates are from that date and will drift; nothing is listed that could not be
-confirmed to exist and to be usable. Dead products and abandoned repos are either removed or
-labelled as such.
+**Maintained by [Valmera](https://valmera.io), a commercial editor included in this list.**
+See the [contribution and affiliation policy](CONTRIBUTING.md).
 
-## The distinction that matters
+**Verification history:** the original directory was checked on 2026-08-05, with newer
+agentic-editor additions checked on 2026-10-06. On 2026-11-06, the workflow categories and
+Valmera descriptions were revised. Other product descriptions, star counts, licences and
+activity dates retain their earlier checks; use each project's current documentation before
+choosing a tool.
 
-Most "AI video" lists mix three unrelated things. Keeping them apart is the whole point of this page.
+## Choose the workflow you need
 
-| | What it does | Your footage |
+AI video products can combine several workflows. These categories describe the task a reader
+wants to perform, and a product may support more than one.
+
+| Workflow | What happens | Starting material |
 |---|---|---|
-| **Agentic editors** | You state a goal in plain language; an agent plans and performs the edit | Required — it edits what you shot |
-| **AI-assisted editors** | A human drives a timeline; AI does chores (silence removal, captions, reframing, grading) | Required |
-| **Generative video** | A model synthesises new frames from a prompt | Not used — it makes footage instead |
+| **Agentic editing** | You describe an outcome; an agent plans and performs editing operations | Footage, project context and a creative brief |
+| **AI-assisted editing** | A person directs the edit and uses AI for selected operations | A timeline, source media or a selected task |
+| **Generative video** | A model creates or transforms visual material | A prompt, reference media or both |
 
-A generative model cannot cut your interview. An agentic editor cannot invent a shot you never
-filmed. Tools that claim both are usually strong at one.
+For an editing project, identify the source files, the new material you need, the review process
+and the final deliverable. Check the selected product's current tools, account requirements and
+export options. A generated shot may become source material in a larger edit; an editor may
+include generation within that workflow.
 
 ## Contents
 
@@ -52,7 +59,7 @@ noted here.
 - [Mosaic](https://mosaic.so) - Node canvas where agents run edits on autopilot and produce A/B variants from one set of rushes, with a timeline to take over. *(hosted)*
 - [Riverside Co-Creator](https://riverside.com/co-creator) - Agent inside Riverside for podcasts and interviews recorded on the platform, with an MCP server. *(hosted, requires Riverside)*
 - [Underlord (Descript)](https://www.descript.com/underlord) - Agent inside Descript that acts on editing instructions across a transcript-backed timeline. *(hosted, requires Descript)*
-- [Valmera](https://valmera.io) - Indexes your footage (word-level transcript, shots, frames), then edits a versioned EDL from a plain-English brief, renders and checks a preview, and turns long videos into shorts. Final MP4 renders from the original file. No SRT export or team seats. *(hosted · free account, paid editing)*
+- [Valmera](https://valmera.io) - Edits uploaded footage from a conversational brief, with versioned changes, rendered previews and final video export. *(hosted · free account, paid editing)*
 - [VideoAgent (HKUDS)](https://github.com/HKUDS/VideoAgent) - Research framework combining video understanding, editing and remaking behind one agent loop. *(MIT · 1.6k★)*
 - [Vyra](https://usevyra.com/) - Chat editing on a full timeline, driven by its built-in AI or your own assistant over MCP; the project stays open in a browser tab while it edits. *(hosted)*
 - [agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - Turns raw footage plus a creative brief into an ad using an ensemble of Gemini agents over FFmpeg. *(MIT · 467★)*
@@ -135,7 +142,7 @@ than filtered by popularity — small repos are listed with their star counts so
 - [Manim MCP Server](https://github.com/abhiemj/manim-mcp-server) - Renders Manim animations from an assistant, for explainer and motion-graphics inserts. *(MIT · 626★)*
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
-- [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Hosted editor for uploaded footage over OAuth: transcript-aware cuts, captions, reframing, shorts, b-roll, music, rendered previews and final MP4 export. Maintainer's own product, see [CONTRIBUTING](CONTRIBUTING.md). *(MIT docs · hosted service)*
+- [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Connects assistants to hosted editing tools for uploaded footage, previews and final exports over authenticated MCP. *(MIT docs · hosted service)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
 - [ffmpeg-mcp (AmolDerickSoans)](https://github.com/AmolDerickSoans/ffmpeg-mcp) - Broad wrapper covering decode, encode, transcode, mux, demux, stream and filter. *(MIT · 14★ · last commit 2025-03)*
