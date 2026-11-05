@@ -136,6 +136,7 @@ than filtered by popularity — small repos are listed with their star counts so
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
 - [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Hosted editor for uploaded footage over OAuth: transcript-aware cuts, captions, reframing, shorts, b-roll, music, rendered previews and final MP4 export. Maintainer's own product, see [CONTRIBUTING](CONTRIBUTING.md). *(MIT docs · hosted service)*
+- [Veyrul](https://veyrul.com) - Retrieves video workflows, code and reference links for agents; supports shared findings. Does not edit footage. *(hosted · free)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
 - [ffmpeg-mcp (AmolDerickSoans)](https://github.com/AmolDerickSoans/ffmpeg-mcp) - Broad wrapper covering decode, encode, transcode, mux, demux, stream and filter. *(MIT · 14★ · last commit 2025-03)*
