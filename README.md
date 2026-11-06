@@ -188,7 +188,7 @@ real timelines as inserts and B-roll.
 
 Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API retires
 2026-09-24, so it is not listed despite still appearing in most roundups.
-
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
 ### Hosted models and platforms
 
 - [D-ID](https://www.d-id.com) - Talking-avatar video from a photo and a script, with an interactive-agent product on top. *(hosted)*
