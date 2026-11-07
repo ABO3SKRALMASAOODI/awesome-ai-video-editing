@@ -8,7 +8,9 @@ See the [contribution and affiliation policy](CONTRIBUTING.md).
 
 **Verification history:** the original directory was checked on 2026-08-05, with newer
 agentic-editor additions checked on 2026-10-06. On 2026-11-06, the workflow categories and
-Valmera descriptions were revised. Other product descriptions, star counts, licences and
+Valmera descriptions were revised. On 2026-11-07, the Grok Imagine entry was added from its
+official API documentation and the generative-workflow description was corrected; this was
+a documentation check, not a hands-on test. Other product descriptions, star counts, licences and
 activity dates retain their earlier checks; use each project's current documentation before
 choosing a tool.
 
@@ -182,9 +184,10 @@ Note: Remotion's own hosted MCP is deprecated; its docs now point to Remotion Ag
 
 ## Generative video
 
-**A different category.** These models synthesise footage; they do not edit yours. They are here
-because every "AI video editor" listicle mixes them in, and because generated shots do end up on
-real timelines as inserts and B-roll.
+These tools create or transform visual material. Some accept existing video and regenerate
+parts of a shot; others start from text, images or a script. Check source limits and preservation
+requirements for the specific model. Generated or transformed shots can become inserts and
+B-roll in a larger editing project.
 
 Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API retires
 2026-09-24, so it is not listed despite still appearing in most roundups.
@@ -194,6 +197,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [D-ID](https://www.d-id.com) - Talking-avatar video from a photo and a script, with an interactive-agent product on top. *(hosted)*
 - [Fliki](https://fliki.ai) - Turns scripts and blog posts into narrated video with 2,000+ voices in 80+ languages. *(hosted · free tier)*
 - [Gemini Omni](https://gemini.google/overview/video-generation/) - Google's conversational video model; generates from text, image or video and re-generates edits like backgrounds and lighting on uploads. *(hosted)*
+- [Grok Imagine](https://docs.x.ai/developers/model-capabilities/video/editing) - Transforms source video from text instructions; the editing API accepts clips up to 8.7 seconds and caps output at 720p. *(hosted API · docs checked 2026-11-07)*
 - [Hailuo](https://hailuoai.video) - MiniMax's text- and image-to-video model, known for character motion. *(hosted · free tier)*
 - [Hedra](https://www.hedra.com) - Character and performance video generation from image plus audio. *(hosted)*
 - [HeyGen](https://www.heygen.com) - Avatar video and translation with lip-sync across languages. *(hosted)*
