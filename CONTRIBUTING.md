@@ -98,3 +98,12 @@ The README records scoped verification dates. When updating entries, state which
 claims you checked and when. Distinguish a documentation check from a hands-on product test;
 neither establishes a quality ranking. Do not advance the whole directory's date for a partial
 update. Re-check any star counts you touch — they change quickly.
+
+## Submitting hands-on evidence
+
+Use the [comparison sheet](EVALUATING.md) when proposing an observed editing result. Include
+the source and permission to share it, exact requests, product/client and date, manual
+interventions, preview versions, final-file evidence and untested requirements. Keep failed
+attempts in the record. Vendor-authored runs are welcome when labeled; they are not independent
+reviews. A link check, feature page or tool-call receipt alone does not establish editing quality.
+Apply the same evidence requirements to Valmera and competing products.
