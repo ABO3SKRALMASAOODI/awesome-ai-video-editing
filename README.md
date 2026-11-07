@@ -139,6 +139,7 @@ Burn-in, translation, and the editors that handle subtitle files properly.
 - [Vibe](https://github.com/thewh1teagle/vibe) - Cross-platform desktop transcription app that runs entirely on your machine. *(MIT · 7.0k★)*
 - [Zeemo](https://zeemo.ai) - Auto-captioning with styled templates aimed at social video. *(hosted · free tier)*
 
+- **[Barz Studio](https://barzvideo.com/?utm_source=abo3skralmasaoodi-awesome-ai-video-editing&utm_medium=directory&utm_campaign=backlinks)** - Free browser editor for beat-reactive rap lyric videos (bring your own track).
 ## Video MCP servers
 
 [Model Context Protocol](https://modelcontextprotocol.io) servers that expose video and audio
@@ -252,6 +253,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1) - Alibaba's open video model, widely used as a finetuning base. *(Apache-2.0 · 16.7k★)*
 - [Wan 2.2](https://github.com/Wan-Video/Wan2.2) - The follow-up release, with a mixture-of-experts architecture. *(Apache-2.0 · 17.0k★)*
 
+- **[Cyanvid](https://cyanvid.com/?utm_source=abo3skralmasaoodi-awesome-ai-video-editing&utm_medium=directory&utm_campaign=backlinks)** - AI video generator: create from text or images with clear credit quotes up front.
 ## Speech, transcription and audio
 
 Word-level timing is what makes transcript-driven and agentic editing possible at all.
