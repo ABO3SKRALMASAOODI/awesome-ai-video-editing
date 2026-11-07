@@ -141,17 +141,25 @@ Burn-in, translation, and the editors that handle subtitle files properly.
 
 ## Video MCP servers
 
-[Model Context Protocol](https://modelcontextprotocol.io) servers that give an AI assistant real
-video tools. This section is the least covered elsewhere, so it is deliberately complete rather
-than filtered by popularity — small repos are listed with their star counts so you can judge.
+[Model Context Protocol](https://modelcontextprotocol.io) servers that expose video and audio
+tools to an assistant. Hosted services, local rendering servers and bridges to installed editors
+have different setup requirements. Check the linked source for the actual endpoint, authentication,
+media-upload path and preview/export behavior; an API alone does not establish a hosted MCP service.
+
+The Creatomate, JSON2Video and Shotstack entries below were checked against their official MCP
+documentation on 2026-11-07. This verifies documented connection routes, not hands-on editing
+quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revision and export.
 
 - [Claude Code Video Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - Bundle of skills and MCP servers for Remotion, Manim, screen recording, YouTube clipping and FFmpeg. *(no licence file · 64★)*
+- [Creatomate MCP](https://creatomate.com/docs/fundamentals/getting-started/mcp-integration) - Connects an assistant to one hosted project to browse, draft and refine templates and inspect renders. *(hosted service)*
 - [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) - Drives Resolve Studio through its official scripting API: timeline, media pool, render, grade, Fusion, Fairlight. *(MIT · 2.0k★)*
 - [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Official server for speech synthesis, dubbing and voice cloning — the audio half of a video pipeline. *(MIT · 1.5k★)*
+- [JSON2Video MCP](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server) - Offers remote and local connections for rendering, job status, movie validation, saved templates and media upload. *(hosted service · optional local client)*
 - [Kinocut](https://github.com/KyaniteLabs/kinocut) - Guardrailed local editing server over FFmpeg with repurposing tools, a Python client and a CLI. *(Apache-2.0 · 99★)*
 - [Manim MCP Server](https://github.com/abhiemj/manim-mcp-server) - Renders Manim animations from an assistant, for explainer and motion-graphics inserts. *(MIT · 626★)*
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
+- [Shotstack MCP](https://shotstack.io/docs/guide/agents/mcp-server/) - Provides a hosted connection for Studio previews, timeline renders, render status, share links and reusable templates. *(hosted service)*
 - [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Connects assistants to hosted editing tools for uploaded footage, previews and final exports over authenticated MCP. *(MIT docs · hosted service)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
