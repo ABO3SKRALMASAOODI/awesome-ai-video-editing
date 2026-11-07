@@ -85,6 +85,8 @@ Duplicate a column for each product. Link evidence where you can share it safely
 | Exact brief and required delivery conditions | | |
 | First preview version and program duration | | |
 | Source intervals changed; joins and meaning reviewed | | |
+| Claim and qualification retained in main story | | |
+| Claim and qualification retained in each standalone clip | | |
 | Exact revision request and resulting version | | |
 | Approved decisions preserved; unintended changes | | |
 | Caption text, timing and readability after revision | | |
@@ -108,6 +110,37 @@ It used a **silent synthetic sample**, not an interview: a 12-second preview bec
 10-second program, delivered as a 15-second file with branding. Review covered sampled frames
 and exact joins, not continuous playback. It establishes neither speech-cleanup quality nor a
 comparison win. The interview checks above remain separate work.
+
+### A recorded-speech caption revision
+
+The [Sintel caption-style record](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/blob/87d25aa0a14ecb8245e95bacfd80a6bba1bf2ac2/docs/CAPTION-STYLE-EXAMPLE.md)
+adds a different, narrowly scoped example. It is a **Valmera-authored run**, not an independent
+review. The input is a licensed Blender Foundation trailer excerpt with recorded dialogue.
+Two caption-style previews and a final MP4 are downloadable, with attribution, hashes and
+inspection frames.
+
+| Evidence in that run | What it supports | What it does not establish |
+| --- | --- | --- |
+| Two 9.6-second previews of the same selected passage, with different caption styles | An inspectable caption-style revision on that passage | Correct captioning on other speakers, languages or longer recordings |
+| Identical SHA-256 hashes after decoding both preview audio streams to the same PCM format | The decoded preview audio samples were identical between those two versions | Speech intelligibility, correct transcription, or equality between preview and final audio |
+| Downloaded final MP4: 14.625 seconds, 1920 × 1080, including a five-second branded end card | The actual file's dimensions, duration and ending can be inspected | That nominal 1080p adds source detail, or that the file duration equals the selected program duration |
+| Retained source fades and disclosed unsuccessful tool attempts | Readers can see the run's boundaries and recovery steps | A failure-free workflow or evidence that the failed calls were fixed |
+
+Use this example to inspect evidence packaging and a focused visual revision. It does **not**
+test interview selection, filler-word removal, multicamera synchronization or preservation of
+a speaker's argument. No speech-quality score was assigned, and no listening-based assessment
+is claimed by this record. An audio hash answers a sample-equality question, not an editorial one.
+
+### Trace a claim across the main story and its clips
+
+For planning rather than measured results, the [interview paper-edit walkthrough](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/blob/41bbce6766371b08410e2830352b07bee2f2ccc4/docs/INTERVIEW-PAPER-EDIT.md)
+uses explicitly fictional teaching data. It keeps a 16-second claim with its 12-second
+qualification, then follows a four-second correction through a main story without changing
+an unaffected standalone clip. It includes a [blank source ledger and revision worksheet](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/blob/41bbce6766371b08410e2830352b07bee2f2ccc4/docs/INTERVIEW-REVIEW-WORKSHEET.md).
+
+Apply that method to your own recording. Review the claim and qualification in **each**
+deliverable; a correct main story cannot establish that its social clips preserve meaning.
+Keep a hypothetical paper edit separate from observed product behavior in the results sheet.
 
 Contributions may add similarly inspectable evidence for any listed editor under the
 [same disclosure rules](CONTRIBUTING.md#submitting-hands-on-evidence). Do not publish private

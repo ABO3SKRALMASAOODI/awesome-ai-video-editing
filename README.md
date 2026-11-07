@@ -38,6 +38,10 @@ provides copyable briefs, a pause-restoration exercise, caption checks and a bla
 It separates documented features, observed behavior and work that remains untested. It is an
 evaluation method, not a ranking or a claim that every listed tool passes.
 
+The sheet also links [downloadable, vendor-authored examples](EVALUATING.md#a-recorded-speech-caption-revision)
+and explains what their measurements establish. A recorded caption-style revision and a
+fictional interview paper edit are labeled separately; neither is a multi-product benchmark.
+
 ## Contents
 
 - [Agentic video editors](#agentic-video-editors)
