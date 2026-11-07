@@ -30,6 +30,14 @@ and the final deliverable. Check the selected product's current tools, account r
 export options. A generated shot may become source material in a larger edit; an editor may
 include generation within that workflow.
 
+## Compare an edit, a revision and the delivered file
+
+A feature list helps build a shortlist. To compare results, use the same recording and request
+one correction after the first preview. Our [interview-editing comparison sheet](EVALUATING.md)
+provides copyable briefs, a pause-restoration exercise, caption checks and a blank results table.
+It separates documented features, observed behavior and work that remains untested. It is an
+evaluation method, not a ranking or a claim that every listed tool passes.
+
 ## Contents
 
 - [Agentic video editors](#agentic-video-editors)
