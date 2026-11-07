@@ -6,13 +6,15 @@ star count or a dead link costs a reader more than a missing entry does.
 ## Conflict of interest
 
 **This list is maintained by [Valmera](https://valmera.io), which is itself listed in it** (under
-Agentic video editors). That is a conflict, so it is stated plainly rather than buried.
+Agentic video editors, with its hosted connector under Video MCP servers). That is a conflict,
+so it is stated plainly rather than buried.
 
 The rules that follow from it:
 
-- Valmera gets one entry, in the same format, with the same length, and with its limits stated —
-  exactly like every other tool.
-- It is not placed first, bolded, given extra links, or repeated in a second section.
+- Valmera follows the same entry format, description length and disclosure rules as every other tool.
+- A product may appear once per relevant section when each entry describes a distinct workflow
+  or integration. This applies equally to every company; repeating the same pitch does not qualify.
+- Affiliation earns no preferred position, bold type or promotional links. Entries are alphabetical.
 - Competing tools are listed on identical terms. **Pull requests adding a Valmera competitor are
   welcome and will be reviewed on the same bar as anything else** — being a competitor is not a
   reason for rejection, and it will never be one.
@@ -27,6 +29,8 @@ today.
 Accepted:
 
 - A hosted product with a working sign-up or a public demo.
+- A publicly available hosted connector with setup documentation and stated access requirements.
+  Label it as hosted; an open licence on its documentation does not make the service open source.
 - A repository with code, a README that explains how to run it, and a commit history.
 - A model with released weights, or a paper with a public PDF.
 - A dataset with a real download or request process.
@@ -34,14 +38,15 @@ Accepted:
 Rejected:
 
 - Landing pages, waitlists, "coming soon", and closed betas with no public access.
-- Repositories that are a README and nothing else, or a thin wrapper with no working code.
+- Repositories presented as runnable implementations without working code. A documentation-only
+  repository may support a hosted-service entry, but is not an open-source implementation.
 - Products that have shut down. If a widely-listed tool is dead, a PR that says so in a note is
   more useful than one that removes it silently.
 - Affiliate or referral links of any kind. Plain canonical URLs only.
 - Reposts, mirrors and SEO clones of a tool already listed.
 
 Low star counts are not a reason for rejection — several genuinely useful MCP servers here have
-fewer than fifty. An empty repo is.
+fewer than fifty. Check usability and access requirements, not popularity alone.
 
 ## How to propose an entry
 
@@ -73,8 +78,9 @@ The three editing sections are easy to confuse, so:
 - **Agentic video editors** — you state a goal in words and an agent plans and performs the edit on
   footage you supply. If a human still has to make every cut, it belongs in AI-assisted.
 - **AI-assisted editors** — a human drives a timeline and AI does specific chores.
-- **Generative video** — the model synthesises new frames. It does not edit your footage, and it
-  goes in this section however the marketing describes it.
+- **Generative video** — a model creates or transforms visual material from a prompt, reference
+  media or both. This includes generative transformations of supplied footage; describe the
+  supported task and source limits instead of assuming full-project editing capabilities.
 
 Products may combine these workflows, including generation inside an agentic editor. Classify
 a tool by its main use and mention another verified capability in its description; avoid universal
@@ -88,6 +94,7 @@ product that still serves a page while no longer working.
 
 ## Verification dates
 
-The README states the date every entry was last checked. If you make a bulk update, update that
-date and re-check the star counts you touched — a star count without a date is a fact with a short
-shelf life.
+The README records scoped verification dates. When updating entries, state which sources and
+claims you checked and when. Distinguish a documentation check from a hands-on product test;
+neither establishes a quality ranking. Do not advance the whole directory's date for a partial
+update. Re-check any star counts you touch — they change quickly.
