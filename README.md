@@ -154,6 +154,7 @@ The Creatomate, JSON2Video and Shotstack entries below were checked against thei
 documentation on 2026-11-07. This verifies documented connection routes, not hands-on editing
 quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revision and export.
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Searches indexed YouTube transcripts for quotes and speaker appearances with timestamps over a hosted MCP server. *(hosted · free tier)*
 - [Claude Code Video Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) - Bundle of skills and MCP servers for Remotion, Manim, screen recording, YouTube clipping and FFmpeg. *(no licence file · 64★)*
 - [Creatomate MCP](https://creatomate.com/docs/fundamentals/getting-started/mcp-integration) - Connects an assistant to one hosted project to browse, draft and refine templates and inspect renders. *(hosted service)*
 - [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) - Drives Resolve Studio through its official scripting API: timeline, media pool, render, grade, Fusion, Fairlight. *(MIT · 2.0k★)*
