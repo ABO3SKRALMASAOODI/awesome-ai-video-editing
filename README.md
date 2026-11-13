@@ -226,6 +226,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Krea](https://www.krea.ai) - Real-time creative suite for image, video and 3D with enhancement and editing passes. *(hosted · free tier)*
 - [LTX Studio](https://ltx.io/studio) - Storyboard-to-video production environment with shot-level control, built on LTX models. *(hosted)*
 - [Luma Dream Machine](https://lumalabs.ai/app) - Text and image to video with keyframe interpolation between stills. *(hosted · free tier)*
+- [Makeaicreator](https://makeaicreator.com) - Face-consistent AI influencer photos and voiceover videos from a plain-language persona, with script-split long videos and product placement. *(hosted · paid)*
 - [Midjourney](https://www.midjourney.com) - Image model with video generation; the reference for stylised look development. *(hosted)*
 - [Pictory](https://pictory.ai) - Script and article to video using stock footage and synthetic narration. *(hosted)*
 - [Pika](https://pika.art) - Short generative clips with an effects-led, consumer-facing interface. *(hosted · free tier)*
