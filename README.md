@@ -160,6 +160,7 @@ quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revi
 - [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Official server for speech synthesis, dubbing and voice cloning — the audio half of a video pipeline. *(MIT · 1.5k★)*
 - [JSON2Video MCP](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server) - Offers remote and local connections for rendering, job status, movie validation, saved templates and media upload. *(hosted service · optional local client)*
 - [Kinocut](https://github.com/KyaniteLabs/kinocut) - Guardrailed local editing server over FFmpeg with repurposing tools, a Python client and a CLI. *(Apache-2.0 · 99★)*
+- [Kling AI MCP](https://kling.ai/app/mcp/guide) - Connects assistants to hosted image and video generation using account credits. *(hosted service · OAuth)*
 - [Manim MCP Server](https://github.com/abhiemj/manim-mcp-server) - Renders Manim animations from an assistant, for explainer and motion-graphics inserts. *(MIT · 626★)*
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
