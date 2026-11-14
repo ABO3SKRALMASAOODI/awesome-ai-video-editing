@@ -7,6 +7,27 @@ It does not assign scores or name a winner before those steps have been observed
 **Published by Valmera, a commercial editor included in this directory.** The method applies to
 any editor. No multi-product test results are supplied here, and a blank field means untested.
 
+## Can I shorten one shot after the first rough cut?
+
+Choose an editor that lets you inspect the first draft and make a correction to that project. The following sources describe different ways to do that. We checked the vendors’ workflow descriptions on November 15, 2026. Valmera supplied the recorded files for its row. The other rows describe vendor documentation.
+
+| Editor | Where to make the revision | What to check yourself |
+| --- | --- | --- |
+| Eddie AI | Start with its interview rough cut. For hands-on finishing, take the sequence into Premiere Pro, Final Cut Pro or DaVinci Resolve. [Eddie AI overview](https://www.heyeddie.ai/) | Reopen the sequence in your chosen editor. Check that the following shot still points to the same source passage. |
+| invideo Editor | Upload footage and direct its agent to assemble an editable rough cut on a timeline. [Rough-cut walkthrough](https://invideo.io/make/rough-cut-editing/) | Save the first preview, request a shorter middle shot, then compare the next cut in the revision. |
+| Selects | Approve a chat editing plan, then use a timestamped note on the draft or trim by hand in the timeline. [Chat-to-edit walkthrough](https://tryselects.com/features/chat-to-edit/) | State which draft the note refers to. Compare both drafts and record any manual adjustment you made. |
+| Valmera | Give the editing agent source ranges, review the first preview and request a change to one range. [Inspect the recorded cut and revision](https://valmera.io/ai-video-editing#worked-edit) | Compare source second 19 in the first preview and final export. Play through the branding at the end of the download. |
+
+**Run a cut you can verify by eye.** Download the [25-second silent timecoded MP4](https://valmera.io/examples/trim-and-reframe/original-source.mp4). The first brief keeps source seconds 3–7, 12–16 and 19–23 in that order. Save the preview. In the same project, ask to remove only source seconds 14–16. Use the timecode printed in the source to check the result.
+
+| Original frame at 30 fps | First preview | Revised program |
+| --- | --- | --- |
+| Source 12.00 s, start of the middle shot | 4.00 s | 4.00 s |
+| Source 14.00 s, part removed by the revision | 6.00 s | Removed |
+| Source 19.00 s, start of the last shot | 8.00 s | 6.00 s |
+
+Keep the first preview and final download. Record the edited program duration separately from any end card. For a tool that selects moments from speech, use the interview exercise below to judge its editorial choices.
+
 ## 1. Set up a fair comparison
 
 Choose a short interview passage you have permission to process. Include a hesitation you want
