@@ -28,6 +28,20 @@ Choose an editor that lets you inspect the first draft and make a correction to 
 
 Keep the first preview and final download. Record the edited program duration separately from any end card. For a tool that selects moments from speech, use the interview exercise below to judge its editorial choices.
 
+## Can I change the opening after previewing a captioned interview?
+
+Give each editor the same answer, then save two revisions from the first preview. In one, replace the question printed above the picture. In the other, remove the introduction and begin with the scientist’s explanation. This lets you see whether the editor can address a title, a spoken boundary and the associated captions independently.
+
+Use the [NASA Goddard interview with Michelle Thaller](https://svs.gsfc.nasa.gov/12713/) and keep a copy of each export. These are source-clock times. The reference uses a 25 fps edit timeline.
+
+| Request | What to inspect in the export |
+| --- | --- |
+| Keep 11.60–21.68 s. Show “Where was OSIRIS-REx going?” above the picture for the first three seconds. | The 252-frame cut introduces the mission before the reason for visiting an asteroid. Listen for the end of the last sentence. |
+| On that cut, replace the title with “Why study an asteroid?” | The same speech and spoken captions still begin at the same times. At 3.00 s the revised question has cleared the picture. |
+| On a second copy, start at 16.84 s and end at 21.68 s. Keep the revised question. | The first spoken caption now starts around 0.06 s. The introduction has gone, and the surviving sentence still ends naturally. The target is 121 frames. |
+
+For each tool, record whether you completed the change with a prompt, a timeline control or a separate application. Play the downloaded files with sound and note any extra branding, padding or missing caption cues. This worksheet supplies expected timings. A tool earns a result only from an observed run. [Source passages, both SRTs, and reproducible title comparison](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/tree/main/docs/examples/interview-opening)
+
 ## 1. Set up a fair comparison
 
 Choose a short interview passage you have permission to process. Include a hesitation you want
