@@ -38,7 +38,7 @@ provides copyable briefs, a pause-restoration exercise, caption checks and a bla
 It separates documented features, observed behavior and work that remains untested. It is an
 evaluation method, not a ranking or a claim that every listed tool passes.
 
-For a rough cut that needs one shorter shot, [compare four revision workflows and trace the source frames](EVALUATING.md#can-i-shorten-one-shot-after-the-first-rough-cut). The exercise includes a downloadable timecoded recording and the expected positions in both cuts.
+For a rough cut that needs one shorter shot, [inspect six exported MP4s](EVALUATING.md#can-i-shorten-one-shot-after-the-first-rough-cut). We ran the same timing check on a hosted editor, a local MCP editor and a local command-line tool. The results include the source, exact commands and frames on either side of the revised join.
 
 For a captioned interview, [test a title revision and a later spoken start](EVALUATING.md#can-i-change-the-opening-after-previewing-a-captioned-interview). Compare both exports on the same source clock.
 
@@ -164,6 +164,7 @@ quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revi
 - [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Official server for speech synthesis, dubbing and voice cloning — the audio half of a video pipeline. *(MIT · 1.5k★)*
 - [JSON2Video MCP](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server) - Offers remote and local connections for rendering, job status, movie validation, saved templates and media upload. *(hosted service · optional local client)*
 - [Kinocut](https://github.com/KyaniteLabs/kinocut) - Guardrailed local editing server over FFmpeg with repurposing tools, a Python client and a CLI. *(Apache-2.0 · 99★)*
+- [MakeMyClip Editor](https://github.com/MakeMyClip/editor) - Lets an agent trim clips in a local timeline, move the following shot and export the revised MP4 through FFmpeg. *(MIT · 11★, checked 2026-11-16)*
 - [Manim MCP Server](https://github.com/abhiemj/manim-mcp-server) - Renders Manim animations from an assistant, for explainer and motion-graphics inserts. *(MIT · 626★)*
 - [MCP Server Whisper](https://github.com/arcaputo3/mcp-server-whisper) - Exposes audio transcription to an assistant, with batch processing of local files. *(MIT · 56★)*
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
