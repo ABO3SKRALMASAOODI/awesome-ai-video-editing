@@ -9,7 +9,7 @@ any editor. No multi-product test results are supplied here, and a blank field m
 
 ## Can I shorten one shot after the first rough cut?
 
-Choose an editor that lets you inspect the first draft and make a correction to that project. The following sources describe different ways to do that. We checked the vendors’ workflow descriptions on November 15, 2026. Valmera supplied the recorded files for its row. The other rows describe vendor documentation.
+Choose an editor that lets you inspect the first draft and make a correction to that project. The following sources describe different ways to do that. We checked the vendors’ workflow descriptions on November 15, 2026. The Eddie AI, invideo and Selects rows summarize vendor documentation. The six downloadable exports below come from hands-on runs by Valmera, which maintains this directory.
 
 | Editor | Where to make the revision | What to check yourself |
 | --- | --- | --- |
@@ -25,6 +25,16 @@ Choose an editor that lets you inspect the first draft and make a correction to 
 | Source 12.00 s, start of the middle shot | 4.00 s | 4.00 s |
 | Source 14.00 s, part removed by the revision | 6.00 s | Removed |
 | Source 19.00 s, start of the last shot | 8.00 s | 6.00 s |
+
+**Which workflow should I try?** With exact in/out points and a repeatable batch, Auto-Editor can cut the source locally from a shell command. For a local timeline that an assistant can revise, MakeMyClip exposes trim and move operations through MCP. For a hosted workflow with a rendered preview, Valmera lets you review the first cut and request a revision. On this sample, all three put the closing shot at the requested frame. Their setup and delivered files differed.
+
+| Tested workflow | First / revised file | What a creator has to do |
+| --- | --- | --- |
+| [Auto-Editor 31.9.0](https://github.com/WyattBlue/auto-editor/releases/tag/31.9.0) | 12 s / 10 s, 1280 × 720 | Run the cut command twice on the original. Change one removal range for the second render. |
+| [MakeMyClip Editor 0.4.2](https://github.com/MakeMyClip/editor) | 12 s / 10 s, 1920 × 1080 | Keep the same local composition. Trim the middle shot and explicitly move the closing shot to 6 s. |
+| [Valmera](https://valmera.io/claude-video-editor#local-and-hosted) | 12 s square preview / 15 s square delivery | Review the preview and request a revision. The final file contains 10 s of program and 5 s of branding. Hosted AI editing requires a paid plan. |
+
+**Check what changed at six seconds.** At 30 fps, output frame 179 is the last frame before the revised join. For all three tools it matched source frame 419 in both versions. Output frame 180 matched source frame 420 in each first cut and 570 in each revision. At output frame 240 the first cuts matched source frame 570 and the revisions matched 630. [Download the six files and run the frame check](examples/rough-cut-revision/README.md).
 
 Keep the first preview and final download. Record the edited program duration separately from any end card. For a tool that selects moments from speech, use the interview exercise below to judge its editorial choices.
 
