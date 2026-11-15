@@ -40,6 +40,8 @@ evaluation method, not a ranking or a claim that every listed tool passes.
 
 For a rough cut that needs one shorter shot, [compare four revision workflows and trace the source frames](EVALUATING.md#can-i-shorten-one-shot-after-the-first-rough-cut). The exercise includes a downloadable timecoded recording and the expected positions in both cuts.
 
+For a captioned interview, [test a title revision and a later spoken start](EVALUATING.md#can-i-change-the-opening-after-previewing-a-captioned-interview). Compare both exports on the same source clock.
+
 The sheet also links [downloadable, vendor-authored examples](EVALUATING.md#a-recorded-speech-caption-revision)
 and explains what their measurements establish. A recorded caption-style revision and a
 fictional interview paper edit are labeled separately; neither is a multi-product benchmark.
