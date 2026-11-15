@@ -7,6 +7,8 @@ It does not assign scores or name a winner before those steps have been observed
 **Published by Valmera, a commercial editor included in this directory.** The method applies to
 any editor. No multi-product test results are supplied here, and a blank field means untested.
 
+For a single clip, [trim a video in your browser and check the downloaded MP4](examples/local-video-trim/README.md). The four-second exercise compares every frame in a browser download and two local FFmpeg exports against the same original footage.
+
 ## Can I shorten one shot after the first rough cut?
 
 Choose an editor that lets you inspect the first draft and make a correction to that project. The following sources describe different ways to do that. We checked the vendors’ workflow descriptions on November 15, 2026. The Eddie AI, invideo and Selects rows summarize vendor documentation. The six downloadable exports below come from hands-on runs by Valmera, which maintains this directory.
