@@ -38,7 +38,7 @@ provides copyable briefs, a pause-restoration exercise, caption checks and a bla
 It separates documented features, observed behavior and work that remains untested. It is an
 evaluation method, not a ranking or a claim that every listed tool passes.
 
-For a rough cut that needs one shorter shot, [inspect six exported MP4s](EVALUATING.md#can-i-shorten-one-shot-after-the-first-rough-cut). We ran the same timing check on a hosted editor, a local MCP editor and a local command-line tool. The results include the source, exact commands and frames on either side of the revised join.
+For a rough cut that needs one shorter shot, [inspect six exported MP4s](EVALUATING.md#can-i-shorten-one-shot-after-the-first-rough-cut). We ran the same timing check on a hosted editor, a local MCP editor and a local command-line tool. At six seconds the three first cuts still show the middle shot and all three revised cuts show the closer. [Watch all six exports side by side and check every program frame](examples/rough-cut-revision/README.md#watch-the-closing-shot-move-in-three-editors).
 
 For a captioned interview, [test a title revision and a later spoken start](EVALUATING.md#can-i-change-the-opening-after-previewing-a-captioned-interview). Compare both exports on the same source clock.
 

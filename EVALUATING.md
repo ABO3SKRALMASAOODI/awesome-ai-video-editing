@@ -38,6 +38,8 @@ Choose an editor that lets you inspect the first draft and make a correction to 
 
 **Check what changed at six seconds.** At 30 fps, output frame 179 is the last frame before the revised join. For all three tools it matched source frame 419 in both versions. Output frame 180 matched source frame 420 in each first cut and 570 in each revision. At output frame 240 the first cuts matched source frame 570 and the revisions matched 630. [Download the six files and run the frame check](examples/rough-cut-revision/README.md).
 
+Across all six files, each of the 1,980 program frames matched its expected source-clock reading after brightness adjustment. The revised Valmera download added a five-second branded ending. [Watch the synchronized comparison and reproduce the clock check](examples/rough-cut-revision/README.md#did-any-of-the-other-frames-change-position).
+
 Keep the first preview and final download. Record the edited program duration separately from any end card. For a tool that selects moments from speech, use the interview exercise below to judge its editorial choices.
 
 ## Can I change the opening after previewing a captioned interview?

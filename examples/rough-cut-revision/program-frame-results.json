@@ -1,0 +1,115 @@
+{
+  "Auto-Editor": [
+    {
+      "file": "cli-first.mp4",
+      "program_frames": 360,
+      "decoded_frames": 360,
+      "counts": {
+        "unique_match": 360,
+        "tied_for_best": 0,
+        "other_frame_closer": 0
+      },
+      "exceptions": [],
+      "contrast_adjusted_unique": 360,
+      "contrast_adjusted_exceptions": []
+    },
+    {
+      "file": "cli-revised.mp4",
+      "program_frames": 300,
+      "decoded_frames": 300,
+      "counts": {
+        "unique_match": 300,
+        "tied_for_best": 0,
+        "other_frame_closer": 0
+      },
+      "exceptions": [],
+      "contrast_adjusted_unique": 300,
+      "contrast_adjusted_exceptions": []
+    }
+  ],
+  "MakeMyClip": [
+    {
+      "file": "first-cut.mp4",
+      "program_frames": 360,
+      "decoded_frames": 360,
+      "counts": {
+        "unique_match": 360,
+        "tied_for_best": 0,
+        "other_frame_closer": 0
+      },
+      "exceptions": [],
+      "contrast_adjusted_unique": 360,
+      "contrast_adjusted_exceptions": []
+    },
+    {
+      "file": "shorter-cut.mp4",
+      "program_frames": 300,
+      "decoded_frames": 300,
+      "counts": {
+        "unique_match": 300,
+        "tied_for_best": 0,
+        "other_frame_closer": 0
+      },
+      "exceptions": [],
+      "contrast_adjusted_unique": 300,
+      "contrast_adjusted_exceptions": []
+    }
+  ],
+  "Valmera": [
+    {
+      "file": "first-preview.mp4",
+      "program_frames": 360,
+      "decoded_frames": 360,
+      "counts": {
+        "unique_match": 360,
+        "tied_for_best": 0,
+        "other_frame_closer": 0
+      },
+      "exceptions": [],
+      "contrast_adjusted_unique": 360,
+      "contrast_adjusted_exceptions": []
+    },
+    {
+      "file": "revised-final.mp4",
+      "program_frames": 300,
+      "decoded_frames": 450,
+      "counts": {
+        "unique_match": 296,
+        "tied_for_best": 0,
+        "other_frame_closer": 4
+      },
+      "exceptions": [
+        {
+          "output": 296,
+          "expected": 686,
+          "nearest": [
+            371
+          ]
+        },
+        {
+          "output": 297,
+          "expected": 687,
+          "nearest": [
+            521
+          ]
+        },
+        {
+          "output": 298,
+          "expected": 688,
+          "nearest": [
+            521
+          ]
+        },
+        {
+          "output": 299,
+          "expected": 689,
+          "nearest": [
+            521
+          ]
+        }
+      ],
+      "contrast_adjusted_unique": 300,
+      "contrast_adjusted_exceptions": []
+    }
+  ]
+}
