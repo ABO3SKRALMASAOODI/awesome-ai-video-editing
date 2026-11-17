@@ -118,6 +118,7 @@ Long video in, short vertical clips out.
 - [2short.ai](https://2short.ai) - Turns long YouTube uploads into shorts, aimed at channel growth rather than social scheduling. *(hosted)*
 - [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Open-source clipper using LLM highlight detection, Whisper and face-aware 9:16 reframing. *(no licence file · 4.5k★)*
 - [Clips AI](https://github.com/ClipsAI/clipsai) - Python library that converts long video into clips and reframes them; transcript-driven. *(MIT · 524★ · last commit 2024-01)*
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Windows app that clips Twitch, Kick and YouTube VODs into captioned 9:16 shorts on your own PC, with speaker tracking. *(AGPL-3.0 · 305★)*
 - [Crayo](https://crayo.ai) - Short-form generator for gameplay-and-voiceover formats with subtitles and stock backgrounds. *(hosted)*
 - [Klap](https://klap.app) - One-click clipping of podcasts and webinars with captions, reframing and a virality score. *(hosted)*
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - Generates full short videos from a topic or keyword through an automated LLM plus stock pipeline. *(MIT · 102k★)*
