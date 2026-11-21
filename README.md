@@ -121,6 +121,7 @@ Long video in, short vertical clips out.
 - [Crayo](https://crayo.ai) - Short-form generator for gameplay-and-voiceover formats with subtitles and stock backgrounds. *(hosted)*
 - [Klap](https://klap.app) - One-click clipping of podcasts and webinars with captions, reframing and a virality score. *(hosted)*
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - Generates full short videos from a topic or keyword through an automated LLM plus stock pipeline. *(MIT · 102k★)*
+- [OpenShorts.io](https://openshorts.io/) - Turns long videos into captioned vertical clips using AI-assisted highlight selection and reframing. *(hosted · free tier)*
 - [OpusClip](https://www.opus.pro) - The most widely cited clipper; scores moments, reframes to vertical and adds animated captions. *(hosted · free tier)*
 - [Podsqueeze](https://podsqueeze.com) - Podcast-focused: transcripts, summaries, show notes and audiogram clips from one upload. *(hosted · free tier)*
 - [Reap](https://reap.video) - Clips, captions and dubs long video into 100+ languages, with an API for pipeline use. *(hosted)*
