@@ -234,6 +234,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Midjourney](https://www.midjourney.com) - Image model with video generation; the reference for stylised look development. *(hosted)*
 - [Pictory](https://pictory.ai) - Script and article to video using stock footage and synthetic narration. *(hosted)*
 - [Pika](https://pika.art) - Short generative clips with an effects-led, consumer-facing interface. *(hosted · free tier)*
+- [RemakeThat](https://remakethat.com) - Remakes a linked TikTok or Facebook video into an original faceless clip with a fresh script and AI creator. *(hosted)*
 - [Runway](https://runway.com) - Gen-series video models alongside the editing toolbox listed above. *(hosted · free tier)*
 - [Renderforest](https://www.renderforest.com) - Template-driven video, logo and website generation for marketing output. *(hosted · free tier)*
 - [Synthesia](https://www.synthesia.io) - Enterprise avatar video from a script, with brand templates and localisation. *(hosted)*
