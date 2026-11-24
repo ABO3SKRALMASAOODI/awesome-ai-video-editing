@@ -71,6 +71,7 @@ noted here.
 - [Cardboard](https://www.cardboard.ai/) - Browser editor where an agent edits on request and can also generate media; a Mac app lets your own Claude or Codex agent drive it. *(hosted, Mac app)*
 - [ChatCut](https://www.chatcut.io/) - Chat-based editor with built-in video models and XML handoff to traditional NLEs. *(hosted, desktop)*
 - [Cutback](https://cutback.video) - Assistant for Premiere Pro that pre-builds selects and rough cuts from raw and multi-cam footage. *(hosted, Premiere plugin)*
+- - [CutVoke](https://github.com/frankShan001/CutVoke) - Desktop editor whose built-in MCP server lets Claude Code, Codex or Cursor edit the same multi-track timeline you keep editing. *(MIT · 44★)*
 - [Diffusion Studio Agent](https://github.com/diffusionstudio/agent) - Framework where an LLM writes and runs browser-based compositing code to fulfil an editing request. *(MIT · 275★ · last commit 2025-02)*
 - [invideo AI agent](https://invideo.io/) - An AI agent on a full multitrack editor, with generation, team features and remote agents over MCP. *(hosted)*
 - [Loopdesk](https://loopdesk.ai/) - Builds an AI first cut across a library of creator footage. *(hosted)*
