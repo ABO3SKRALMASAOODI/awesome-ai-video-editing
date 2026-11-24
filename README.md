@@ -170,6 +170,7 @@ quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revi
 - [Remotion MCP App](https://github.com/mcp-use/remotion-mcp-app) - The model writes React/Remotion compositions, the server compiles them and a live player renders the result. *(41★)*
 - [Shotstack MCP](https://shotstack.io/docs/guide/agents/mcp-server/) - Provides a hosted connection for Studio previews, timeline renders, render status, share links and reusable templates. *(hosted service)*
 - [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Connects assistants to hosted editing tools for uploaded footage, previews and final exports over authenticated MCP. *(MIT docs · hosted service)*
+- [Vertov MCP](https://vertov.app/docs/mcp) - Searches screen recordings, reads timestamped briefs and transcripts, and uploads videos over OAuth or API key. *(hosted service)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
 - [ffmpeg-mcp (AmolDerickSoans)](https://github.com/AmolDerickSoans/ffmpeg-mcp) - Broad wrapper covering decode, encode, transcode, mux, demux, stream and filter. *(MIT · 14★ · last commit 2025-03)*
