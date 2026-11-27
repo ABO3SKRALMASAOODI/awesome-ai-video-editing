@@ -79,6 +79,7 @@ noted here.
 - [Underlord (Descript)](https://www.descript.com/underlord) - Agent inside Descript that acts on editing instructions across a transcript-backed timeline. *(hosted, requires Descript)*
 - [Valmera](https://valmera.io) - Edits uploaded footage from a conversational brief, with versioned changes, rendered previews and final video export. *(hosted · free account, paid editing)*
 - [VideoAgent (HKUDS)](https://github.com/HKUDS/VideoAgent) - Research framework combining video understanding, editing and remaking behind one agent loop. *(MIT · 1.6k★)*
+- [Vidmoat](https://www.vidmoat.com) - Browser editor where a built-in agent edits your footage from chat on a real multi-track timeline you can review. Also on Telegram and MCP. *(hosted · free tier)*
 - [Vyra](https://usevyra.com/) - Chat editing on a full timeline, driven by its built-in AI or your own assistant over MCP; the project stays open in a browser tab while it edits. *(hosted)*
 - [agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) - Turns raw footage plus a creative brief into an ad using an ensemble of Gemini agents over FFmpeg. *(MIT · 467★)*
 
@@ -172,6 +173,7 @@ quality. Use the [comparison sheet](EVALUATING.md) to record your own edit, revi
 - [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) - Connects assistants to hosted editing tools for uploaded footage, previews and final exports over authenticated MCP. *(MIT docs · hosted service)*
 - [Video Editor MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP) - Compact FFmpeg server covering trim, concat, overlay and format conversion. *(no licence file · 50★)*
 - [Video Jungle MCP](https://github.com/burningion/video-editing-mcp) - Client for [Video Jungle](https://www.video-jungle.com): upload, search and edit video from an assistant. *(no licence file · 284★ · last commit 2025-10)*
+- [Vidmoat MCP](https://developer.vidmoat.com/developer/docs/build) - Hosted remote MCP server (OAuth or API key) to import footage, edit a timeline, preview frames and render MP4s. Live MCP needs Studio. *(hosted · paid for live MCP)*
 - [ffmpeg-mcp (AmolDerickSoans)](https://github.com/AmolDerickSoans/ffmpeg-mcp) - Broad wrapper covering decode, encode, transcode, mux, demux, stream and filter. *(MIT · 14★ · last commit 2025-03)*
 - [ffmpeg-mcp (dubnium0)](https://github.com/dubnium0/ffmpeg-mcp) - 40+ tools spanning processing, analysis and streaming. *(no licence file · 19★)*
 - [ffmpeg-mcp-server](https://github.com/beambuilder/ffmpeg-mcp-server) - Small, focused server for pulling highlight segments out of long recordings. *(MIT · 3★)*
